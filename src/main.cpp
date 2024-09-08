@@ -1,9 +1,9 @@
 /*
  * @Description: In User Settings Edit
- * @Author: your name
- * @Date: 2019-09-12 14:51:36
- * @LastEditTime: 2019-10-11 16:39:57
- * @LastEditors: Please set LastEditors
+ * @Author: Dereck Mezquita
+ * @Date: 2024-09-08 14:59:14
+ * @LastEditTime: 2024-09-08 14:59:14
+ * @LastEditors: Dereck Mezquita
  */
 #include <Arduino.h>
 #include "Pins.h"
